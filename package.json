@@ -1,0 +1,21 @@
+{
+  "name": "article",
+  "private": true,
+  "description": "...",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/michaelord/article.git"
+  },
+  "devDependencies": {
+    "components/people": "http://github.com/michaelord/people.git",
+    "components/navigation": "http://github.com/michaelord/navigation.git",
+    "components/libs": "http://github.com/michaelord/libs.git",
+    "components/content": "http://github.com/michaelord/content.git",
+    "gatsby": "http://github.com/michaelord/gatsby.git",
+    "components/block": "http://github.com/michaelord/block.git"
+  },
+  "author": "michaelord",
+  "keywords": []
+}
