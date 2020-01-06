@@ -1,22 +1,25 @@
 {
-  "name": "article",
-  "private": true,
-  "description": "...",
-  "version": "0.1.0",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/michaelord/article.git"
-  },
-  "devDependencies": {},
-  "author": "michaelord",
-  "keywords": [],
-  "dependencies": {
-    "components/people": "http://github.com/michaelord/people.git",
-    "components/navigation": "http://github.com/michaelord/navigation.git",
-    "components/libs": "http://github.com/michaelord/libs.git",
-    "components/content": "http://github.com/michaelord/content.git",
-    "gatsby": "http://github.com/michaelord/gatsby.git",
-    "components/block": "http://github.com/michaelord/block.git"
-  }
+	"name": "article",
+	"private": true,
+	"description": "...",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/michaelord/article.git"
+	},
+	"devDependencies": {},
+	"author": "michaelord",
+	"keywords": [],
+	"dependencies": {
+		"components/layout": "http://github.com/michaelord/layout.git",
+		"components/libs": "http://github.com/michaelord/libs.git",
+		"components/navigation": "http://github.com/michaelord/navigation.git",
+		"components/people": "http://github.com/michaelord/people.git",
+		"components/types": "http://github.com/michaelord/types.git",
+		"components/development": "http://github.com/michaelord/development.git",
+		"components/content": "http://github.com/michaelord/content.git",
+		"components/editable": "http://github.com/michaelord/editable.git",
+		"react-container-query": "^0.11.0"
+	}
 }

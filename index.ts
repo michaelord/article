@@ -1,2 +1,3 @@
 export {Article} from './Article';
-export {LatestArticles} from './LatestArticles';
+export {ArticlePreview} from './ArticlePreview';
+export {ArticleList} from './ArticleList';
